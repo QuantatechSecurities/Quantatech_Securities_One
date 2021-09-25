@@ -112,7 +112,7 @@ The training and testing data was split using a 80/20 ratio, meaning that 80% of
 
 The model also displays the equity curve, which is used to understand how the portfolio would have changed using the model over a 2 years period. 
 
-[![Equity Curve of the JPM Stock](./JPMExample/Equity_curve.png)
+![Equity Curve of the JPM Stock](./JPMExample/Equity_curve.png)
 
 In addition the model also calculates risk factors such as the sharpe ratio and the maximum drawdown of the stock price. 
 
@@ -123,7 +123,7 @@ sharpe_ratio = round(strategy_data['strategy_returns'].mean() /
 The Sharpe ratio is 2.62.
 ```
 
-[![Maximum Drawdown](./JPMExample/Drawdown.png)
+![Maximum Drawdown](./JPMExample/Drawdown.png)
 
 
 ## Dependencies
