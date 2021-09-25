@@ -9,6 +9,8 @@
 
 **One** uses artificial intelligence and machine learning to predict buy orders on a user-determined security. The following information will further explain how to use **One** by walking through an example of an analyzation process the _J.P. Morgan_ (JPM) stock Price. 
 
+![logo](./DOCUMENTATION/public/logo.png)
+
 1. Project Overview
 2. J.P. Morgan Walkthrough Example
 3. Dependencies
