@@ -3,7 +3,7 @@
 
 
 
-[![Build Status](https://user-images.githubusercontent.com/91350084/134769911-59f261ff-3c56-44f5-bd74-a3c0bedaee3a.png)
+![Build Status](https://user-images.githubusercontent.com/91350084/134769911-59f261ff-3c56-44f5-bd74-a3c0bedaee3a.png)
 
 [![Python](DOCUMENTATION/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d322e372c253230332e342b2d626c75652e7376673f7374796c653d666c6174.svg)
 **One** uses artificial intelligence and machine learning to predict buy orders on a user-determined security. The following information will further explain how to use **One** by walking through an example of an analyzation process the _J.P. Morgan_ (JPM) stock Price. 
