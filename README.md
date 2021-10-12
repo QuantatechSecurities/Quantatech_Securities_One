@@ -2,11 +2,6 @@
 ## _Machine Learning Model for analyzing stock prices_
 
 
-
-![Build Status](https://user-images.githubusercontent.com/91350084/134769911-59f261ff-3c56-44f5-bd74-a3c0bedaee3a.png)
-
-![Python](./DOCUMENTATION/public/Skjermbilde.PNG)
-
 **One** uses artificial intelligence and machine learning to predict buy orders on a user-determined security. The following information will further explain how to use **One** by walking through an example of an analyzation process the _J.P. Morgan_ (JPM) stock Price. 
 
 
