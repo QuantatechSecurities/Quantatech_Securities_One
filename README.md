@@ -137,9 +137,8 @@ The dependencies used in the project is listed below
 | sys|0.4 |
 
 ## Additional Information
-1. If you have any questions about the project feel free to contact me over [Mail](mailto:quantatech.securities@gmail.com)
-2. If you enjoyed the project make sure to share it with your friends!
-3. Check out my other repos with finance related programs and tutorials
+1. If you have any questions about the project feel free to contact us over [Mail](mailto:quantatech.securities@gmail.com)
+
 
 
 
